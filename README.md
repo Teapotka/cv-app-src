@@ -4,7 +4,7 @@
 
 Hello :wave:
 This is src project of my Resume. It includes libraries such as:
-+ React.js
++ React.js (TS)
 + Swiper.js
 + Anime.js
 + classnames
