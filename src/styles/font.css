@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+.head {
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+.subhead {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+
+.regular {
+    font-weight: 300;
+    font-size: 10px;
+}
+
+.bigregular {
+    font-weight: 300;
+    font-size: 12px;
+}

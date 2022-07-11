@@ -1,0 +1,33 @@
+.container {
+    padding: 5% 5% 0 5%;
+    grid-template-rows: 10% 90%;
+}
+
+.label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    padding: 10px 10px 0 10px;
+}
+
+.info {
+    padding: 10px;
+}
+
+.grid {
+    padding-bottom: 25px;
+    height: 100%;
+    width: 100%;
+    display: grid;
+    align-content: center;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.gridItem {
+    display: flex;
+    align-items: center;
+}

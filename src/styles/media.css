@@ -1,0 +1,598 @@
+@media (min-width: 320px) {
+
+    @media (min-height: 600px) {
+        .head {
+            font-size: 22px;
+        }
+
+        .subhead {
+            font-size: 18px;
+        }
+
+        .bigregular {
+            font-size: 14px;
+        }
+
+        .regular {
+            font-size: 11.9px;
+        }
+
+    }
+
+    @media (min-height: 720px) {
+        .head {
+            font-size: 24px;
+        }
+
+        .subhead {
+            font-size: 20px;
+        }
+
+        .bigregular {
+            font-size: 16px;
+        }
+
+        .regular {
+            font-size: 12.9px;
+        }
+    }
+
+    @media (min-height: 840px) {
+        .head {
+            font-size: 26px;
+        }
+
+        .subhead {
+            font-size: 22px;
+        }
+
+        .bigregular {
+            font-size: 18px;
+        }
+
+        .regular {
+            font-size: 13.9px;
+        }
+    }
+
+    @media (min-height: 960px) {
+        .head {
+            font-size: 28px;
+        }
+
+        .subhead {
+            font-size: 24px;
+        }
+
+        .bigregular {
+            font-size: 20px;
+        }
+
+        .regular {
+            font-size: 14.9px;
+        }
+    }
+}
+
+@media (min-width:375px) {
+    @media (min-height:530px) {
+        .head {
+            font-size: 22px;
+        }
+
+        .subhead {
+            font-size: 18px;
+        }
+
+        .bigregular {
+            font-size: 14px;
+        }
+
+        .regular {
+            font-size: 11.9px;
+        }
+
+    }
+
+    @media (min-height: 630px) {
+        .head {
+            font-size: 24px;
+        }
+
+        .subhead {
+            font-size: 20px;
+        }
+
+        .bigregular {
+            font-size: 16px;
+        }
+
+        .regular {
+            font-size: 12.9px;
+        }
+    }
+
+    @media (min-height: 730px) {
+        .head {
+            font-size: 26px;
+        }
+
+        .subhead {
+            font-size: 22px;
+        }
+
+        .bigregular {
+            font-size: 18px;
+        }
+
+        .regular {
+            font-size: 13.9px;
+        }
+    }
+
+    @media (min-height: 850px) {
+        .head {
+            font-size: 28px;
+        }
+
+        .subhead {
+            font-size: 24px;
+        }
+
+        .bigregular {
+            font-size: 20px;
+        }
+
+        .regular {
+            font-size: 14.9px;
+        }
+    }
+
+    @media (min-height: 950px) {
+        .head {
+            font-size: 30px;
+        }
+
+        .subhead {
+            font-size: 26px;
+        }
+
+        .bigregular {
+            font-size: 21px;
+        }
+
+        .regular {
+            font-size: 15.9px;
+        }
+    }
+}
+
+@media (min-width:425px) {
+    @media (min-height:490px) {
+        .head {
+            font-size: 22px;
+        }
+
+        .subhead {
+            font-size: 18px;
+        }
+
+        .bigregular {
+            font-size: 14px;
+        }
+
+        .regular {
+            font-size: 11.9px;
+        }
+
+    }
+
+    @media (min-height: 590px) {
+        .head {
+            font-size: 24px;
+        }
+
+        .subhead {
+            font-size: 20px;
+        }
+
+        .bigregular {
+            font-size: 16px;
+        }
+
+        .regular {
+            font-size: 12.9px;
+        }
+    }
+
+    @media (min-height: 650px) {
+        .head {
+            font-size: 26px;
+        }
+
+        .subhead {
+            font-size: 22px;
+        }
+
+        .bigregular {
+            font-size: 18px;
+        }
+
+        .regular {
+            font-size: 13.9px;
+        }
+    }
+
+    @media (min-height: 750px) {
+        .head {
+            font-size: 28px;
+        }
+
+        .subhead {
+            font-size: 24px;
+        }
+
+        .bigregular {
+            font-size: 20px;
+        }
+
+        .regular {
+            font-size: 15px;
+        }
+    }
+
+    @media (min-height: 850px) {
+        .head {
+            font-size: 30px;
+        }
+
+        .subhead {
+            font-size: 26px;
+        }
+
+        .bigregular {
+            font-size: 21px;
+        }
+
+        .regular {
+            font-size: 17px;
+        }
+    }
+
+}
+
+@media (min-width:600px) {
+    .ico {
+        width: 30%;
+    }
+
+    @media (min-height: 480px) {
+        .head {
+            font-size: 24px;
+        }
+
+        .subhead {
+            font-size: 20px;
+        }
+
+        .bigregular {
+            font-size: 16px;
+        }
+
+        .regular {
+            font-size: 14px;
+        }
+    }
+
+    @media (min-height: 630px) {
+        .head {
+            font-size: 28px;
+        }
+
+        .subhead {
+            font-size: 24px;
+        }
+
+        .bigregular {
+            font-size: 20px;
+        }
+
+        .regular {
+            font-size: 16px;
+        }
+    }
+
+    @media (min-height: 760px) {
+        .head {
+            font-size: 30px;
+        }
+
+        .subhead {
+            font-size: 26px;
+        }
+
+        .bigregular {
+            font-size: 22px;
+        }
+
+        .regular {
+            font-size: 18px;
+        }
+    }
+
+    @media (min-height: 950px) {
+        .head {
+            font-size: 34px;
+        }
+
+        .subhead {
+            font-size: 30px;
+        }
+
+        .bigregular {
+            font-size: 25px;
+        }
+
+        .regular {
+            font-size: 21px;
+        }
+    }
+
+}
+
+@media (min-width:768px) {
+
+    @media (min-height: 550px) {
+        .head {
+            font-size: 28px;
+        }
+
+        .subhead {
+            font-size: 24px;
+        }
+
+        .bigregular {
+            font-size: 20px;
+        }
+
+        .regular {
+            font-size: 16px;
+        }
+    }
+
+    @media (min-height: 700px) {
+        .head {
+            font-size: 30px;
+        }
+
+        .subhead {
+            font-size: 26px;
+        }
+
+        .bigregular {
+            font-size: 22px;
+        }
+
+        .regular {
+            font-size: 18px;
+        }
+    }
+
+    @media (min-height: 850px) {
+        .head {
+            font-size: 34px;
+        }
+
+        .subhead {
+            font-size: 30px;
+        }
+
+        .bigregular {
+            font-size: 26px;
+        }
+
+        .regular {
+            font-size: 22px;
+        }
+    }
+
+    @media (min-height: 1000px) {
+        .head {
+            font-size: 36px;
+        }
+
+        .subhead {
+            font-size: 32px;
+        }
+
+        .bigregular {
+            font-size: 28px;
+        }
+
+        .regular {
+            font-size: 24px;
+        }
+    }
+
+}
+
+@media (min-width:1024px) {
+    .ico {
+        width: 20%;
+    }
+
+    .buttonLink {
+        width: 75px;
+        height: 75px;
+    }
+
+    @media (min-height: 490px) {
+        .head {
+            font-size: 30px;
+        }
+
+        .subhead {
+            font-size: 26px;
+        }
+
+        .bigregular {
+            font-size: 22px;
+        }
+
+        .regular {
+            font-size: 18px;
+        }
+    }
+
+    @media (min-height: 700px) {
+        .head {
+            font-size: 34px;
+        }
+
+        .subhead {
+            font-size: 30px;
+        }
+
+        .bigregular {
+            font-size: 26px;
+        }
+
+        .regular {
+            font-size: 22px;
+        }
+    }
+
+    @media (min-height: 900px) {
+        .head {
+            font-size: 36px;
+        }
+
+        .subhead {
+            font-size: 32px;
+        }
+
+        .bigregular {
+            font-size: 28px;
+        }
+
+        .regular {
+            font-size: 24px;
+        }
+    }
+
+}
+
+@media (min-width:1440px) {
+    .ico {
+        width: 15%;
+    }
+
+    .buttonLink {
+        width: 75px;
+        height: 75px;
+    }
+
+    @media (min-height: 580px) {
+        .head {
+            font-size: 34px;
+        }
+
+        .subhead {
+            font-size: 30px;
+        }
+
+        .bigregular {
+            font-size: 26px;
+        }
+
+        .regular {
+            font-size: 22px;
+        }
+    }
+
+    @media (min-height: 800px) {
+        .head {
+            font-size: 38px;
+        }
+
+        .subhead {
+            font-size: 34px;
+        }
+
+        .bigregular {
+            font-size: 30px;
+        }
+
+        .regular {
+            font-size: 26px;
+        }
+    }
+
+    @media (min-height: 1000px) {
+        .head {
+            font-size: 40px;
+        }
+
+        .subhead {
+            font-size: 36px;
+        }
+
+        .bigregular {
+            font-size: 32px;
+        }
+
+        .regular {
+            font-size: 28px;
+        }
+    }
+
+}
+
+@media (min-width:2560px) {
+
+    .ico {
+        width: 12%;
+    }
+
+    .buttonLink {
+        width: 100px;
+        height: 100px;
+    }
+
+    @media (min-height: 730px) {
+        .head {
+            font-size: 40px;
+        }
+
+        .subhead {
+            font-size: 36px;
+        }
+
+        .bigregular {
+            font-size: 32px;
+        }
+
+        .regular {
+            font-size: 28px;
+        }
+    }
+
+    @media (min-height: 1000px) {
+        .head {
+            font-size: 47px;
+        }
+
+        .subhead {
+            font-size: 43px;
+        }
+
+        .bigregular {
+            font-size: 39px;
+        }
+
+        .regular {
+            font-size: 35px;
+        }
+    }
+
+}

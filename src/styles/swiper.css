@@ -1,0 +1,25 @@
+.swiper-wrapper {
+    overflow-y: visible;
+    overflow-x: visible;
+}
+
+.swiper-pagination-bullet {
+    background-color: #fff;
+}
+
+.swiper-slide-active>div {
+    opacity: 1;
+    transform: translateY(0px);
+    transition: all 1.5s;
+    transition-delay: 0.3s;
+}
+
+.swiper-slide-next>div {
+    transform: translateY(10px);
+    opacity: 0;
+}
+
+.swiper-slide-prev>div {
+    transform: translateY(10px);
+    opacity: 0;
+}

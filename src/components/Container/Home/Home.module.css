@@ -1,0 +1,25 @@
+.container {
+    padding: 5%;
+    grid-template-rows: 55% 35%;
+}
+
+.photo {
+    object-fit: contain;
+    max-width: 100%;
+    height: auto;
+}
+
+.box {
+    padding: 10px;
+}
+
+
+.info {
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+.mt1 {
+    margin-top: 10px;
+}

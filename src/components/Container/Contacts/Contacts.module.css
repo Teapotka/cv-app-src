@@ -1,0 +1,71 @@
+.container {
+    padding: 5%;
+    grid-template-rows: 10% 90%;
+}
+
+.label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    height: 100%;
+    width: 100%;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.button {
+    grid-row: 2/3;
+    grid-column: 2/3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, .2);
+    border-radius: 50%;
+}
+
+.phone {
+    transform: translateY(-10px);
+    grid-row: 3/3;
+    grid-column: 2/3;
+    align-self: flex-start;
+}
+
+
+.mail {
+    transform: translateX(-10px);
+    grid-row: 2/3;
+    grid-column: 3/3;
+    justify-self: flex-start;
+}
+
+.linkedin {
+    transform: translateY(10px);
+    grid-column: 2/3;
+    align-self: flex-end;
+
+}
+
+.github {
+    transform: translateX(10px);
+    grid-row: 2/3;
+    justify-self: end;
+}
+
+
+.unmask {
+    transform: translateX(0px) translateY(0px);
+    transition: all 1.5s;
+    opacity: 1;
+}
+
+.mask {
+    transition: all 1.5s;
+    opacity: 0;
+}
